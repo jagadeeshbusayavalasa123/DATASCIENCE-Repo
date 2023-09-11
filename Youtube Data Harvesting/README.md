@@ -6,14 +6,10 @@ Problem Statement:  Create a streamlit App which allows users to extract data fr
                          analyse the important metrics about  their channels and videos performance.
 
 
-              PROJECT DONE BY: JAGADEESH BUSAYAVALASA (certified in MASTERS IN DATASCIENCE from GUVI IIT collabaration)
-              PROJECT DOMAIN : DATA SCIENCE & ANALYTICS
+              PROJECT DONE BY: JAGADEESH BUSAYAVALASA (certified at GUVI IIT- MASTERS IN DATASCIENCE)
+              PROJECT DOMAIN : DATA SCIENCE & ANALYTICS(mongo,sql,pandas)
 
-
-
-DEMO VIDEO URL: https://www.youtube.com/watch?v=BKJXhXDjDuA
-
-LINKED IN URL : https://www.linkedin.com/posts/samuel-solomon-116884244_youtube-data-harvesting-and-warehousing-activity-7076940665137332224-2oYd?utm_source=share&utm_medium=member_desktop
+LINKED IN URL :https://www.linkedin.com/posts/jagadeesh-busayavalasa-634b22225_learning-datascience-guvi-activity-7106946971810111488-7qcQ?utm_source=share&utm_medium=member_desktop
 
 The application consists following features: 
 
@@ -61,9 +57,10 @@ Configuration:
 
 5.After retrieving data please use "upload to MONGODB" to store in datawarehouse in form of collections.
 
-6.Use SQL upload if you want to analayse data and receive metrics from sql datawarehouse.
+6.Use "SQL upload"  if you want to analayse data and receive metrics from sql datawarehouse.
 
-7.Use Runqueries section to get  realational data useful for evaluating channels and videos performance with your competitors
+7.Use "SQL Queries Q&A" section to get  realational data useful for evaluating channels and videos performance with your competitors
+
 Usage:
 
 
