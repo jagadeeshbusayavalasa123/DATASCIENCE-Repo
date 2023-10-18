@@ -9,7 +9,7 @@ Problem Statement:  Create a streamlit App which allows users to extract data fr
               PROJECT DONE BY: JAGADEESH BUSAYAVALASA (certified at GUVI IIT- MASTERS IN DATASCIENCE)
               PROJECT DOMAIN : DATA SCIENCE & ANALYTICS(mongo,sql,pandas)
 
-LINKED IN Demo Video URL : https://www.linkedin.com/posts/jagadeesh-busayavalasa-634b22225_learning-datascience-guvi-activity-7106946971810111488-7qcQ?utm_source=share&utm_medium=member_desktop
+LINKED IN Demo Video URL : https://www.linkedin.com/feed/update/urn:li:activity:7106946971810111488/
 
 The application consists following features: 
 
