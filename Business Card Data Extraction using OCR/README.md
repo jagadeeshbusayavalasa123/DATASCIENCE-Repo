@@ -7,7 +7,7 @@ DOMAIN : DATA SCIENCE
 
 DEMO VIDEO URL: 
 
-LINKED IN URL : 
+LINKED IN URL : https://www.linkedin.com/feed/update/urn:li:activity:7113443506945232896/
 
 
 ## What is EasyOCR?
