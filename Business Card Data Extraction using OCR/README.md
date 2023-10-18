@@ -7,7 +7,7 @@ DOMAIN : DATA SCIENCE
 
 DEMO VIDEO URL: https://www.linkedin.com/feed/update/urn:li:activity:7113443506945232896/
 
-LINKED IN URL : https://www.linkedin.com/feed/update/urn:li:activity:7113443506945232896/
+LINKED IN URL : www.linkedin.com/in/jagadeesh-busayavalasa
 
 
 ## What is EasyOCR?
