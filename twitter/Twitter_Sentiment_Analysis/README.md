@@ -1,12 +1,11 @@
  (TWITTER SENTIMENT ANALYSIS)
 
- NAME : ARUNKUMAR BAIRAVAN
+ NAME : Jagadeesh Busayavalasa
 
-BATCH: DW60DW61
+BATCH: D7273
 
 DOMAIN : DATA SCIENCE
 
-LINKED IN URL : https://www.linkedin.com/feed/update/urn:li:activity:7121410378432974848/
 
  
  The following project is about analyzing the sentiments of tweets on social networking website
